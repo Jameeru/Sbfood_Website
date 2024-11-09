@@ -15,7 +15,7 @@ app.use(cors());
 
 const PORT = 6001;
 
-mongoose.connect('mongodb+srv://jameeru:<Shain@0102>@cluster.ekuuu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster',{
+mongoose.connect('mongodb+srv://jameeru:<Shain@0102>@cluster.ekuuu.mongodb.net/sbfood_website?retryWrites=true&w=majority&appName=Cluster',{
     useNewUrlParser: true,
     useUnifiedTopology: true
 }).then(()=>{
