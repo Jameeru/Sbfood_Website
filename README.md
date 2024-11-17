@@ -42,8 +42,8 @@ This project is a food ordering website built using the MEAN stack (MongoDB, Exp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/food-ordering-website.git
-   cd food-ordering-website
+   git clone https://github.com/jameeru/Sbfood_website.git
+   cd Sbfood_website
    ```
 
 2. Install dependencies for the backend:
@@ -64,7 +64,6 @@ This project is a food ordering website built using the MEAN stack (MongoDB, Exp
 
    ```
    MONGODB_URI=mongodb://<username>:<password>@localhost:3000/foodOrdering
-   JWT_SECRET=your_jwt_secret
    ```
 
 ## Usage
