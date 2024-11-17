@@ -1,5 +1,0 @@
-# Port number on which the server runs
-PORT=6001
-
-# MongoDB connection URI
-MONGODB_URI=mongodb+srv://jameeru:915018@cluster.ekuuu.mongodb.net/project?retryWrites=true&w=majority
